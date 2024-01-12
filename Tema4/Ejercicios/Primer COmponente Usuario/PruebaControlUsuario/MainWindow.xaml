@@ -7,7 +7,7 @@
         xmlns:PrimerControlUsuarioNET="clr-namespace:PrimerControlUsuarioNET;assembly=PrimerControlUsuarioNET" x:Class="PruebaControlUsuario.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="DarkSlateGray">
         <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="133,181,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
