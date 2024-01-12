@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimerControlUsuario/1.0.0": {
+        "runtime": {
+          "PrimerControlUsuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimerControlUsuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

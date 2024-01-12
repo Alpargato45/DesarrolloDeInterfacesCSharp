@@ -1,0 +1,16 @@
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\bin\Debug\net6.0-windows\PrimerControlUsuario.deps.json
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\bin\Debug\net6.0-windows\PrimerControlUsuario.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\bin\Debug\net6.0-windows\PrimerControlUsuario.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\UserControl1.g.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario_MarkupCompile.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario_MarkupCompile.lref
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\UserControl1.baml
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.g.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.AssemblyInfoInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.AssemblyInfo.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.csproj.CoreCompileInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\refint\PrimerControlUsuario.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\PrimerControlUsuario.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuario\obj\Debug\net6.0-windows\ref\PrimerControlUsuario.dll

@@ -1,0 +1,24 @@
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\ProyectoPrueba.exe
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\ProyectoPrueba.deps.json
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\ProyectoPrueba.runtimeconfig.json
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\ProyectoPrueba.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\ProyectoPrueba.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\Primer Componente.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\bin\Debug\net6.0-windows\Primer Componente.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.csproj.AssemblyReference.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\App.g.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba_MarkupCompile.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba_MarkupCompile.lref
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.g.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.AssemblyInfoInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.AssemblyInfo.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.csproj.CoreCompileInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.csproj.CopyComplete
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\refint\ProyectoPrueba.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ProyectoPrueba.genruntimeconfig.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\ProyectoPrueba\obj\Debug\net6.0-windows\ref\ProyectoPrueba.dll

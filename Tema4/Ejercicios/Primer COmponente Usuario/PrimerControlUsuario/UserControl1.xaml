@@ -1,0 +1,17 @@
+<UserControl x:Class="PrimerControlUsuario.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrimerControlUsuario"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Margin="0,0,595,323" HorizontalAlignment="Right" Width="205" Height="106" VerticalAlignment="Bottom">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="35" Margin="50,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" TextChanged="textBox_TextChanged"/>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Height="25" Margin="50,45,0,0" VerticalAlignment="Top" Width="142" Foreground="Red"/>
+        <Label x:Name="labelCuentaNumero" Content="0" HorizontalAlignment="Left" Height="25" Margin="133,45,0,0" VerticalAlignment="Top" Width="62" Foreground="Green"/>
+        <Label Content="/" HorizontalAlignment="Left" Height="25" Margin="152,45,0,0" VerticalAlignment="Top" Width="40" Foreground="Green"/>
+        <Label x:Name="labelMaximoNumero" Content="50" HorizontalAlignment="Left" Height="25" Margin="164,45,0,0" VerticalAlignment="Top" Width="28" Foreground="Green"/>
+
+    </Grid>
+</UserControl>

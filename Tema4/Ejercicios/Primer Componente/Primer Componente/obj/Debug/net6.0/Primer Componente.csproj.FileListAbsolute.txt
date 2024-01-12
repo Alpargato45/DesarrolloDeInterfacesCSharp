@@ -1,0 +1,11 @@
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\bin\Debug\net6.0\Primer Componente.deps.json
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\bin\Debug\net6.0\Primer Componente.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\bin\Debug\net6.0\Primer Componente.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.GeneratedMSBuildEditorConfig.editorconfig
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.AssemblyInfoInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.AssemblyInfo.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.csproj.CoreCompileInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\refint\Primer Componente.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\Primer Componente.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer Componente\Primer Componente\obj\Debug\net6.0\ref\Primer Componente.dll

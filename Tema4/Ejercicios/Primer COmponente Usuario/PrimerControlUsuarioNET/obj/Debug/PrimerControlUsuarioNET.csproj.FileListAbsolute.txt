@@ -1,0 +1,13 @@
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\bin\Debug\PrimerControlUsuarioNET.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\bin\Debug\PrimerControlUsuarioNET.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.csproj.AssemblyReference.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\UserControl1.g.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET_MarkupCompile.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET_MarkupCompile.lref
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\UserControl1.baml
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.g.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.Properties.Resources.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.csproj.GenerateResource.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.csproj.CoreCompileInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PrimerControlUsuarioNET\obj\Debug\PrimerControlUsuarioNET.pdb
