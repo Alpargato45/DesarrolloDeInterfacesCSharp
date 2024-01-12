@@ -8,6 +8,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="DarkSlateGray">
-        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="133,181,0,0" VerticalAlignment="Top"/>
+        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="133,181,0,0" VerticalAlignment="Top" numeroMaximoLabel="100"/>
     </Grid>
 </Window>

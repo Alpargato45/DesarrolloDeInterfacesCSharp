@@ -21,34 +21,44 @@ namespace PrimerControlUsuarioNET
         public UserControl1()
         {
             InitializeComponent();
+            if (!System.ComponentModel.DesignerProperties.GetIsInDesignMode(this))
+            {
+                textBox.MaxLength = 50;
+                labelMaximoNumero.Content = "50";
+            }
         }
-        public string getTextView { get => textBox.Text; set => textBox.Text = value; }
-        public string getLabel { get => label.Content.ToString(); set => label.Content = value; }
-        public string getMaximoNumero { get => labelMaximoNumero.Content.ToString(); set => labelMaximoNumero.Content = value; }
+        public string textoTexBox { get => textBox.Text; set => textBox.Text = value; }
+        public string textoLabel { get => label.Content.ToString(); set => label.Content = value; }
+        //public string numeroMaximoLabel { get => labelMaximoNumero.Content.ToString(); set => labelMaximoNumero.Content = value; }
+        public string numeroMaximoLabel { get => textBox.MaxLength.ToString(); set => textBox.MaxLength = int.Parse(value); }
 
         private void textBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            textBox.MaxLength = int.Parse(labelMaximoNumero.Content.ToString());
+            //textBox.MaxLength = int.Parse(labelMaximoNumero.Content.ToString());
+            labelMaximoNumero.Content = numeroMaximoLabel.ToString();
+            labelCuentaNumero.Visibility = Visibility.Visible;
+            labelBarra.Visibility = Visibility.Visible;
+            labelMaximoNumero.Visibility = Visibility.Visible;
+
+            int numPorcentaje = (int)((int)int.Parse(numeroMaximoLabel) * 0.25);
+
             labelCuentaNumero.Content = textBox.Text.Length.ToString();
-            if (int.Parse(labelCuentaNumero.Content.ToString()) >= 0 && int.Parse(labelCuentaNumero.Content.ToString()) < 20)
+            if (int.Parse(labelCuentaNumero.Content.ToString()) >= 0 && int.Parse(labelCuentaNumero.Content.ToString()) < numPorcentaje)
             {
                 labelCuentaNumero.Foreground = Brushes.Green;
                 labelBarra.Foreground = Brushes.Green;
                 labelMaximoNumero.Foreground = Brushes.Green;
-            }
-            if (int.Parse(labelCuentaNumero.Content.ToString()) >= 20 && int.Parse(labelCuentaNumero.Content.ToString()) < 35)
+            } else if (int.Parse(labelCuentaNumero.Content.ToString()) >= numPorcentaje && int.Parse(labelCuentaNumero.Content.ToString()) < numPorcentaje*2)
             {
                 labelCuentaNumero.Foreground = Brushes.Yellow;
                 labelBarra.Foreground = Brushes.Yellow;
                 labelMaximoNumero.Foreground = Brushes.Yellow;
-            }
-            if (int.Parse(labelCuentaNumero.Content.ToString()) >= 35 && int.Parse(labelCuentaNumero.Content.ToString()) < 45)
+            } else if (int.Parse(labelCuentaNumero.Content.ToString()) >= numPorcentaje*2 && int.Parse(labelCuentaNumero.Content.ToString()) < numPorcentaje*3)
             {
                 labelCuentaNumero.Foreground = Brushes.Orange;
                 labelBarra.Foreground = Brushes.Orange;
                 labelMaximoNumero.Foreground = Brushes.Orange;
-            }
-            if (int.Parse(labelCuentaNumero.Content.ToString()) >= 45)
+            } else if (int.Parse(labelCuentaNumero.Content.ToString()) >= numPorcentaje*3)
             {
                 labelCuentaNumero.Foreground = Brushes.Red;
                 labelBarra.Foreground = Brushes.Red;
