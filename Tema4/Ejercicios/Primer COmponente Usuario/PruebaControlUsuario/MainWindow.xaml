@@ -4,10 +4,11 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PruebaControlUsuario"
-        xmlns:PrimerControlUsuarioNET="clr-namespace:PrimerControlUsuarioNET;assembly=PrimerControlUsuarioNET" x:Class="PruebaControlUsuario.MainWindow"
+        xmlns:PrimerControlUsuarioNET="clr-namespace:PrimerControlUsuarioNET;assembly=PrimerControlUsuarioNET" xmlns:barraDeProgresion="clr-namespace:barraDeProgresion;assembly=barraDeProgresion" x:Class="PruebaControlUsuario.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="DarkSlateGray">
-        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="133,181,0,0" VerticalAlignment="Top" numeroMaximoLabel="100"/>
+        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="147,173,0,0" VerticalAlignment="Top" numeroMaximoLabel="100" textoLabel="Label"/>
+        <barraDeProgresion:UserControl1 HorizontalAlignment="Left" Margin="345,328,0,0" VerticalAlignment="Top" porcentaje="54"/>
     </Grid>
 </Window>

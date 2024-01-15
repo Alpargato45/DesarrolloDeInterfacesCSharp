@@ -34,3 +34,5 @@ H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimest
 H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\obj\Debug\PruebaControlUsuario.csproj.CopyComplete
 H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\obj\Debug\PruebaControlUsuario.exe
 H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\obj\Debug\PruebaControlUsuario.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\barraDeProgresion.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\barraDeProgresion.pdb

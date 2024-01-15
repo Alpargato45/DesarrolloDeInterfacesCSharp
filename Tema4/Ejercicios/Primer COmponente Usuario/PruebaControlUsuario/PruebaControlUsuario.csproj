@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="barraDeProgresion">
+      <HintPath>..\barraDeProgresion\bin\Debug\barraDeProgresion.dll</HintPath>
+    </Reference>
     <Reference Include="PrimerControlUsuarioNET">
       <HintPath>..\PrimerControlUsuarioNET\bin\Debug\PrimerControlUsuarioNET.dll</HintPath>
     </Reference>

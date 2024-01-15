@@ -10,7 +10,7 @@
         <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Height="25" Margin="50,45,0,0" VerticalAlignment="Top" Width="142" Foreground="Red"/>
         <Label x:Name="labelCuentaNumero" Content="0" HorizontalAlignment="Left" Height="25" Margin="133,45,0,0" VerticalAlignment="Top" Width="62" Foreground="Green" Visibility="Hidden"/>
         <Label x:Name="labelBarra" Content="/" HorizontalAlignment="Left" Height="25" Margin="152,45,0,0" VerticalAlignment="Top" Width="40" Foreground="Green" Visibility="Hidden"/>
-        <Label x:Name="labelMaximoNumero" Content=" " HorizontalAlignment="Left" Height="25" Margin="164,45,0,0" VerticalAlignment="Top" Width="28" Foreground="Green" Visibility="Hidden"/>
+        <Label x:Name="labelMaximoNumero" Content="" HorizontalAlignment="Left" Height="25" Margin="164,45,0,0" VerticalAlignment="Top" Width="34" Foreground="Green" Visibility="Hidden"/>
 
     </Grid>
 </UserControl>
