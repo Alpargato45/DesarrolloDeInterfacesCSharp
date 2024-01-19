@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="DarkSlateGray">
-        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="147,173,0,0" VerticalAlignment="Top" numeroMaximoLabel="100" textoLabel="Label"/>
-        <barraDeProgresion:UserControl1 HorizontalAlignment="Left" Margin="345,328,0,0" VerticalAlignment="Top" porcentaje="54"/>
+        <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="153,123,0,0" VerticalAlignment="Top"/>
+        <barraDeProgresion:UserControl1 HorizontalAlignment="Left" Margin="415,338,0,0" VerticalAlignment="Top" porcentaje="1" tiempo="15"/>
     </Grid>
 </Window>

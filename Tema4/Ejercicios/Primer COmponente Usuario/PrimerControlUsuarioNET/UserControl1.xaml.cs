@@ -29,12 +29,10 @@ namespace PrimerControlUsuarioNET
         }
         public string textoTexBox { get => textBox.Text; set => textBox.Text = value; }
         public string textoLabel { get => label.Content.ToString(); set => label.Content = value; }
-        //public string numeroMaximoLabel { get => labelMaximoNumero.Content.ToString(); set => labelMaximoNumero.Content = value; }
         public string numeroMaximoLabel { get => textBox.MaxLength.ToString(); set => textBox.MaxLength = int.Parse(value); }
 
         private void textBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            //textBox.MaxLength = int.Parse(labelMaximoNumero.Content.ToString());
             labelMaximoNumero.Content = numeroMaximoLabel.ToString();
             labelCuentaNumero.Visibility = Visibility.Visible;
             labelBarra.Visibility = Visibility.Visible;

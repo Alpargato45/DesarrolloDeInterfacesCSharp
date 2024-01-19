@@ -4,10 +4,10 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:barraDeProgresion"
-             mc:Ignorable="d" Height="42" Width="203">
+             mc:Ignorable="d" Height="41" Width="188">
     <Grid>
-        <GroupBox x:Name="groupPorcentaje" Header="0" Margin="5,-4,0,0" Height="38" VerticalAlignment="Top" HorizontalAlignment="Left" Width="185">
-            <Rectangle x:Name="barraCarga" HorizontalAlignment="Left" Height="18" Stroke="Black" VerticalAlignment="Top" Width="175" Fill="Green" Margin="-1,0,0,0"/>
+        <GroupBox x:Name="groupPorcentaje" Header="0" Height="38" VerticalAlignment="Top" HorizontalAlignment="Left" Width="185">
+            <Rectangle x:Name="barraCarga" HorizontalAlignment="Left" Height="16" Stroke="Black" VerticalAlignment="Center" Width="175" Fill="Green" Margin="-1,0,0,0"/>
         </GroupBox>
 
     </Grid>
