@@ -41,6 +41,9 @@
     <Reference Include="PrimerControlUsuarioNET">
       <HintPath>..\PrimerControlUsuarioNET\bin\Debug\PrimerControlUsuarioNET.dll</HintPath>
     </Reference>
+    <Reference Include="relojDigital">
+      <HintPath>..\relojDigital\bin\Debug\relojDigital.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />

@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="relojDigital.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:relojDigital"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Rectangle x:Name="A1" HorizontalAlignment="Left" Height="45" Margin="46,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="A4" HorizontalAlignment="Left" Height="45" Margin="46,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="A2" HorizontalAlignment="Left" Height="45" Margin="104,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="A5" HorizontalAlignment="Left" Height="45" Margin="104,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="A6" HorizontalAlignment="Left" Height="44" Margin="76,172,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="A3" HorizontalAlignment="Left" Height="44" Margin="75,114,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="A0" HorizontalAlignment="Left" Height="44" Margin="75,60,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="B1" HorizontalAlignment="Left" Height="45" Margin="125,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="B4" HorizontalAlignment="Left" Height="45" Margin="125,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="B2" HorizontalAlignment="Left" Height="45" Margin="183,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="B5" HorizontalAlignment="Left" Height="45" Margin="183,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="B6" HorizontalAlignment="Left" Height="44" Margin="155,172,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="B3" HorizontalAlignment="Left" Height="44" Margin="154,114,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="B0" HorizontalAlignment="Left" Height="44" Margin="154,60,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="C1" HorizontalAlignment="Left" Height="45" Margin="216,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="C4" HorizontalAlignment="Left" Height="45" Margin="216,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="C2" HorizontalAlignment="Left" Height="45" Margin="274,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="C5" HorizontalAlignment="Left" Height="45" Margin="274,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="C6" HorizontalAlignment="Left" Height="44" Margin="246,172,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="C3" HorizontalAlignment="Left" Height="44" Margin="245,114,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="C0" HorizontalAlignment="Left" Height="44" Margin="245,60,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="D1" HorizontalAlignment="Left" Height="45" Margin="294,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="D4" HorizontalAlignment="Left" Height="45" Margin="294,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="D2" HorizontalAlignment="Left" Height="45" Margin="352,85,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="D5" HorizontalAlignment="Left" Height="45" Margin="352,143,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle x:Name="D6" HorizontalAlignment="Left" Height="44" Margin="324,172,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="D3" HorizontalAlignment="Left" Height="44" Margin="324,114,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="D0" HorizontalAlignment="Left" Height="44" Margin="324,60,0,0" Fill="White" VerticalAlignment="Top" Width="6" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="7" Margin="200,126,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+        <Rectangle HorizontalAlignment="Left" Height="7" Margin="200,138,0,0" Fill="White" VerticalAlignment="Top" Width="6"/>
+    </Grid>
+</UserControl>

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaControlUsuario", "Pru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerControlUsuarioNET", "..\PrimerControlUsuarioNET\PrimerControlUsuarioNET.csproj", "{B144BF9A-F9C9-4C0E-B497-FB3571CD10D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relojDigital", "..\relojDigital\relojDigital.csproj", "{115B9EF7-6A64-4A25-99BA-2C0C95492FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B144BF9A-F9C9-4C0E-B497-FB3571CD10D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B144BF9A-F9C9-4C0E-B497-FB3571CD10D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B144BF9A-F9C9-4C0E-B497-FB3571CD10D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115B9EF7-6A64-4A25-99BA-2C0C95492FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115B9EF7-6A64-4A25-99BA-2C0C95492FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115B9EF7-6A64-4A25-99BA-2C0C95492FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115B9EF7-6A64-4A25-99BA-2C0C95492FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
