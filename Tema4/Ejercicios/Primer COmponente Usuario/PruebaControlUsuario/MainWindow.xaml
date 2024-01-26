@@ -9,6 +9,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="DarkSlateGray">
         <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="153,123,0,0" VerticalAlignment="Top"/>
-        <relojDigital:UserControl1 HorizontalAlignment="Left" Margin="387,178,0,0" VerticalAlignment="Top" horas="34" minutos="54"/>
+        <relojDigital:UserControl1 HorizontalAlignment="Left" Margin="322,161,0,0" VerticalAlignment="Top" minutos="3" horas="2"/>
     </Grid>
 </Window>

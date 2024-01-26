@@ -155,7 +155,7 @@ namespace relojDigital
 
         public int horas { get => hora; set => iluminarHoras(value); }
         public int minutos { get => minuto; set => iluminarMinutos(value); }
-        
+        //public SolidColorBrush colorBrush { get => colorBrush; set => colorBrush = value; }
 
         }
     }
