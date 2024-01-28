@@ -24,6 +24,7 @@ namespace relojDigital
         private List<Rectangle> horaUnidad;
         private List<Rectangle> minutoDecena;
         private List<Rectangle> minutoUnidad;
+        private SolidColorBrush color = new SolidColorBrush(Colors.Red);
         public UserControl1()
         {
             InitializeComponent();
@@ -74,78 +75,77 @@ namespace relojDigital
         private void cambiarNumero(List<Rectangle> lista,int num)
         {
             resetearColores(lista);
-            SolidColorBrush rojo = new SolidColorBrush(Colors.Red);
             switch (num)
             {
                 case 0:
-                    lista[0].Fill = rojo;
-                    lista[1].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[4].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[1].Fill = color;
+                    lista[2].Fill = color;
+                    lista[4].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 case 1:
-                    lista[2].Fill = rojo;
-                    lista[5].Fill = rojo;
+                    lista[2].Fill = color;
+                    lista[5].Fill = color;
                     break;
                 case 2:
-                    lista[0].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[4].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[2].Fill = color;
+                    lista[3].Fill = color;
+                    lista[4].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 case 3:
-                    lista[0].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[2].Fill = color;
+                    lista[3].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 case 4:
-                    lista[1].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[5].Fill = rojo;
+                    lista[1].Fill = color;
+                    lista[2].Fill = color;
+                    lista[3].Fill = color;
+                    lista[5].Fill = color;
                     break;
                 case 5:
-                    lista[0].Fill = rojo;
-                    lista[1].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[1].Fill = color;
+                    lista[3].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 case 6:
-                    lista[0].Fill = rojo;
-                    lista[1].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[4].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[1].Fill = color;
+                    lista[3].Fill = color;
+                    lista[4].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 case 7:
-                    lista[0].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[5].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[2].Fill = color;
+                    lista[5].Fill = color;
                     break;
                 case 8:
-                    lista[0].Fill = rojo;
-                    lista[1].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[4].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[1].Fill = color;
+                    lista[2].Fill = color;
+                    lista[3].Fill = color;
+                    lista[4].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
 
                     break;
                 case 9:
-                    lista[0].Fill = rojo;
-                    lista[1].Fill = rojo;
-                    lista[2].Fill = rojo;
-                    lista[3].Fill = rojo;
-                    lista[5].Fill = rojo;
-                    lista[6].Fill = rojo;
+                    lista[0].Fill = color;
+                    lista[1].Fill = color;
+                    lista[2].Fill = color;
+                    lista[3].Fill = color;
+                    lista[5].Fill = color;
+                    lista[6].Fill = color;
                     break;
                 default:
 
@@ -153,9 +153,15 @@ namespace relojDigital
             }
         }
 
+        private void cambiarColor(SolidColorBrush valor)
+        {
+            color = valor;
+            iluminarHoras(hora);
+            iluminarMinutos(minuto);
+        }
+
         public int horas { get => hora; set => iluminarHoras(value); }
         public int minutos { get => minuto; set => iluminarMinutos(value); }
-        //public SolidColorBrush colorBrush { get => colorBrush; set => colorBrush = value; }
-
-        }
+        public SolidColorBrush darColor { get => color; set => cambiarColor(value); }
     }
+}

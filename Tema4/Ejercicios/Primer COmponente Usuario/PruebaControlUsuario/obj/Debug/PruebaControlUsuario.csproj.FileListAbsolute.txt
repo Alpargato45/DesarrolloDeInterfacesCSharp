@@ -38,3 +38,7 @@ E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimest
 E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\barraDeProgresion.pdb
 E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\relojDigital.dll
 E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\relojDigital.pdb
+H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\barraDeProgresion.dll
+H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\relojDigital.dll
+H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\barraDeProgresion.pdb
+H:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\PruebaControlUsuario\bin\Debug\relojDigital.pdb
