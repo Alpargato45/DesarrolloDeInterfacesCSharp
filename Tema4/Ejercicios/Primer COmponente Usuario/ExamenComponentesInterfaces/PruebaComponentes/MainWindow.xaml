@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebaComponentes"
+        xmlns:ComponenteExamen="clr-namespace:ComponenteExamen;assembly=ComponenteExamen" x:Class="PruebaComponentes.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <ComponenteExamen:UserControl1 x:Name="personalizado" HorizontalAlignment="Left" Margin="87,173,0,0" VerticalAlignment="Top" darColor="#FFE21212" numeroMaximoTextBox="8" numeroMaximoListBox="5" Width="259" />
+        <Button x:Name="btn" Content="Button" HorizontalAlignment="Center" Margin="0,107,0,0" VerticalAlignment="Top" Height="43" Width="98" Click="btn_Click"/>
+        <TextBox x:Name="txtBox" HorizontalAlignment="Left" Height="42" Margin="351,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178"/>
+
+    </Grid>
+</Window>

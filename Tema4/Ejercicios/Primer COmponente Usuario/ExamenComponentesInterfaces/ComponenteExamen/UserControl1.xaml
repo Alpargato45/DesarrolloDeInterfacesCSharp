@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="ComponenteExamen.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ComponenteExamen"
+             mc:Ignorable="d" Height="168" Width="257">
+    <Grid Margin="0,0,-32,9">
+        <TextBox x:Name="textBoxComponente" Height="30" Margin="4,0,97,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <ListBox x:Name="listBoxComponente" Margin="4,45,97,14" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="listBoxComponente_SelectionChanged"/>
+        <Slider x:Name="sliderComponente" HorizontalAlignment="Left" Margin="141,62,0,76" Width="146" RenderTransformOrigin="0.5,0.5" IsEnabled="False">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+
+    </Grid>
+</UserControl>

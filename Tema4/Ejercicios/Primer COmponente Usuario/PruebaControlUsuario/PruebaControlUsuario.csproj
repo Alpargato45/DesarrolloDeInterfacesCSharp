@@ -38,6 +38,9 @@
     <Reference Include="barraDeProgresion">
       <HintPath>..\barraDeProgresion\bin\Debug\barraDeProgresion.dll</HintPath>
     </Reference>
+    <Reference Include="ComponenteCronometro">
+      <HintPath>C:\Users\atyu2\Downloads\ComponenteCronometro\ComponenteCronometro\bin\Debug\ComponenteCronometro.dll</HintPath>
+    </Reference>
     <Reference Include="PrimerControlUsuarioNET">
       <HintPath>..\PrimerControlUsuarioNET\bin\Debug\PrimerControlUsuarioNET.dll</HintPath>
     </Reference>

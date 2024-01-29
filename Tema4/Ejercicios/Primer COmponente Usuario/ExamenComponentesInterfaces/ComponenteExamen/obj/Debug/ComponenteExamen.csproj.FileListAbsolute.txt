@@ -1,0 +1,13 @@
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\bin\Debug\ComponenteExamen.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\bin\Debug\ComponenteExamen.pdb
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.csproj.AssemblyReference.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\UserControl1.g.cs
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen_MarkupCompile.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen_MarkupCompile.lref
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\UserControl1.baml
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.g.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.Properties.Resources.resources
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.csproj.GenerateResource.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.csproj.CoreCompileInputs.cache
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.dll
+E:\Todo\Informatica\Grado Superior\2023-2024\Desarrollo de Interfaces\2doTrimestre\Tema4\Ejercicios\Primer COmponente Usuario\ExamenComponentesInterfaces\ComponenteExamen\obj\Debug\ComponenteExamen.pdb

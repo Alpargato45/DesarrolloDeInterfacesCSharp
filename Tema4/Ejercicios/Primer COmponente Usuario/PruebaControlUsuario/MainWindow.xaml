@@ -4,11 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PruebaControlUsuario"
-        xmlns:PrimerControlUsuarioNET="clr-namespace:PrimerControlUsuarioNET;assembly=PrimerControlUsuarioNET" xmlns:barraDeProgresion="clr-namespace:barraDeProgresion;assembly=barraDeProgresion" xmlns:relojDigital="clr-namespace:relojDigital;assembly=relojDigital" x:Class="PruebaControlUsuario.MainWindow"
+        xmlns:PrimerControlUsuarioNET="clr-namespace:PrimerControlUsuarioNET;assembly=PrimerControlUsuarioNET" xmlns:barraDeProgresion="clr-namespace:barraDeProgresion;assembly=barraDeProgresion" xmlns:relojDigital="clr-namespace:relojDigital;assembly=relojDigital" xmlns:ComponenteCronometro="clr-namespace:ComponenteCronometro;assembly=ComponenteCronometro" x:Class="PruebaControlUsuario.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="DarkSlateGray">
         <PrimerControlUsuarioNET:UserControl1 HorizontalAlignment="Left" Margin="153,123,0,0" VerticalAlignment="Top"/>
-        <relojDigital:UserControl1 HorizontalAlignment="Left" Margin="331,161,0,0" VerticalAlignment="Top" horas="23" minutos="12" darColor="#FF284079"/>
     </Grid>
 </Window>
